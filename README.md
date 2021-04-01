@@ -4,4 +4,4 @@ Integrated Technologies:Deep Learning | Flask | Docker
 
 
 
-Docker image:https://hub.docker.com/r/priyankagavali/keras-flask 
+Docker Container Image:https://hub.docker.com/r/priyankagavali/keras-flask 
